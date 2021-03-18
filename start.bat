@@ -1,1 +1,0 @@
-start cmd.exe /k "cd bin & Weekly-Pay-Calculator"
